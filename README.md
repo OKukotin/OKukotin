@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OKukotin (Oleksandr Kukotin)
+- 👋 Hi, my name is Oleksandr Kukotin, I'm a system administrator in a library 
 - 👀 I’m interested in developing desktop software, game development and sometimes web-services
-- 🌱 I’m currently learning C++ language
+- 🌱 Currently I'm learning the C++ language
 - 📫 How to reach me: @OKukotin (Telegram)
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Oleksandr Kukotin, I'm a system administrator in a library 
 - 👀 I’m interested in developing desktop software, game development and sometimes web-services
-- 🌱 Currently I'm learning the C++ language
+- 🌱 Currently I'm learning the Java language
 - 📫 How to reach me: @OKukotin (Telegram)
 
 <!---

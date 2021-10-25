@@ -1,4 +1,4 @@
-- 👋 Hello, my I'm Pawawudaf and I'll a Java developer 
+- 👋 Hello, I'm Pawawudaf and I'll a Java developer 
 - 👀 I’m interested in developing desktop software, videogames
 <!---
 Pawawudaf/Pawawudaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

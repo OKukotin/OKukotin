@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a amateur Java developer who enjoys creating clean and efficient code. I'm passionate about constantly improving my skills and learning new technologies. I wish to become a world-level professional in my 
+I'm an amateur Java developer who enjoys creating clean and efficient code. I'm passionate about constantly improving my skills and learning new technologies. I wish to become a world-level professional in my tech stack. Interested in videogames and hacking.
 
 🌱 Now I’m learning Spring Boot and microservices.
 

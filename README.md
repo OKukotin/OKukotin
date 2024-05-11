@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm an amateur Java developer who enjoys creating clean and efficient code. I'm passionate about constantly improving my skills and learning new technologies. I wish to become a world-level software development specialist.
 

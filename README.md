@@ -11,3 +11,5 @@ Outside of coding, I'm a big fan of anime and manga. I also enjoy listening to m
 📫 How to reach me: oleksandr.kukotin@gmail.com
 
 ⚡ Fun fact: I can be called "The Boy Who Lived"
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrKukotin)](https://github.com/anuraghazra/github-readme-stats)

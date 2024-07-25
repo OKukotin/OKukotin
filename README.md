@@ -12,4 +12,4 @@ Outside of coding, I'm a big fan of anime and manga. I also enjoy listening to m
 
 ⚡ Fun fact: I can be called "The Boy Who Lived"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrKukotin)](https://github.com/anuraghazra/github-readme-stats)
+[![Oleksandr's GitHub stats](https://github-readme-stats.vercel.app/api?username=OleksandrKukotin)](https://github.com/anuraghazra/github-readme-stats)

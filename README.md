@@ -12,4 +12,4 @@ I wish to become a world-level software development specialist.
 
 ⚡ Fun fact: I can be called "The Boy Who Lived"
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tevovirne)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OleksandrKukotin)](https://github.com/anuraghazra/github-readme-stats)
